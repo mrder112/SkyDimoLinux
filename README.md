@@ -1,3 +1,3 @@
 # SkyDimoLinux
 SkyDimoLinux HyperHDR Config Skydimo
-![image](https://github.com/user-attachments/assets/8133e931-47b9-4689-a089-b91c16ff1a25)
+<img width="2557" height="1311" alt="image" src="https://github.com/user-attachments/assets/55a11cfa-a8b7-40d4-8d8c-c68e82b482c2" />
